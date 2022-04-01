@@ -12,3 +12,6 @@ Create an instance of CreateGui then use the createPage() method.
 
 # DOCUMENTATION NOTE:
 If you are using this as an API, remember to change the classes to your liking, this was not made as an api, but as a somewhat customizable plugin.
+
+# Dependency
+This plugin uses Mafana Hub as a dependency. You can find this in my github.
