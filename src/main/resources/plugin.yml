@@ -1,0 +1,4 @@
+name: Game-Gui
+version: '${project.version}'
+main: com.max.gamegui.GameGui
+api-version: 1.18

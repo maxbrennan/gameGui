@@ -1,0 +1,4 @@
+name: Game-Gui
+version: '1.18.1'
+main: com.max.gamegui.GameGui
+api-version: 1.18
